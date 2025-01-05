@@ -1,7 +1,7 @@
 ---
 title: Legal
 layout: default
-parent: cypher_system
+parent: Cypher System
 nav_order: 3
 ---
 
