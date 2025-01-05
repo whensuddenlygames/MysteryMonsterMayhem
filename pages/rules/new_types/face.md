@@ -2,7 +2,7 @@
 title: Face
 layout: default
 parent: New Types
-nav_order: 2
+nav_order: 1
 ---
 
 Face
