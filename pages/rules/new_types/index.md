@@ -1,7 +1,7 @@
 ---
 title: New Types
 layout: default
-parent: New Rules
+parent: Mystery Monster Mayhem! Rules
 nav_order: 3
 ---
 
