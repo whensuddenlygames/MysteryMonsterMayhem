@@ -1,6 +1,7 @@
 ---
 title: Legal
 layout: default
+nav_order: 3
 ---
 
 
