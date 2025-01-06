@@ -6,7 +6,7 @@ nav_order: 1
 ---
 # Legal
 
-![Cypher System compatibility logo](./imgs/Compatible with the Cypher System Logo color small.png)
+![Cypher System compatibility logo](imgs/Compatible with the Cypher System Logo color small.png)
 
 This product is an independent production and is not affiliated with Monte Cook Games, LLC. It is published under the Cypher System Open License, found at http://csol.montecookgames.com.
 
