@@ -13,7 +13,7 @@ For one, it makes updating the game far easier than trying to release a PDF ever
 {: .note }
 > You can't copyright mechanics anyway so it's not worth trying to gate keep them. I only "own" the expression of those mechanics.
 
-## What Are My Goals?(#goals)
+## What Are My Goals?<a name="goals"></a>
 While Cypher System is fantastic for narrative first games, characters skew toward being far more heoric than a lot of games. Between their stat pools, abilities, skills, and cyphers they are particularly powerful. While this serves a game well in high fantasy and sci-fi fantasy, it can quickly rob horror games of their tension. How scary can a monster be when you can vaporize a wall with your mind?
 
 With that in mind I wanted to test Cypher System's core mechanics. Is there a breaking point? How far can I push and pull them until they break? At which point I can back off just smidge to see where we end up. For this alpha release there are some extreme changes to the underlying character stats. 
