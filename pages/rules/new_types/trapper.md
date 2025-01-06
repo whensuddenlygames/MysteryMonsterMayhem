@@ -14,7 +14,7 @@ nav_order: 0
 
 You get 3 additional points to divide among your stat Pools however you wish.
 
-#### First-Tier Trapper
+## First-Tier Trapper
 Trapper's have the following abilities
 
 **Effort:** Effort of 1 
