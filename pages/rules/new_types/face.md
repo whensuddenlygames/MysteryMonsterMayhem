@@ -14,7 +14,7 @@ nav_order: 1
 
 You get 3 additional points to divide among your stat Pools however you wish.
 
-#### First-Tier Face
+## First-Tier Face
 
 **Effort:** Your Effort is 1. 
 
