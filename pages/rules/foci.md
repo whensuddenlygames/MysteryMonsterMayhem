@@ -5,7 +5,7 @@ parent: Mystery Monster Mayhem! Rules
 nav_order: 2
 ---
 # Foci
-Here is the curated list of Foci to choose from. These can be found in the SRD.
+Here is the curated list of Foci to choose from. These can be found in the [SRD](https://screwtapello.gitlab.io/cypher-system-reference/focus.html).
 
 > There is still a good chance I'll need to make some changes to these but for the sake of getting this to table to play test as quickly as possible I'm leaving them as is.
 
