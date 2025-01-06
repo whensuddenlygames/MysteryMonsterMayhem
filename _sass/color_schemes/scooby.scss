@@ -1,6 +1,6 @@
 $color-scheme: scooby;
 $body-background-color: #68328c;
-$body-heading-color: #68328C; // Heading, maybe
+$body-heading-color: #BABF17; // Heading
 $body-text-color: $grey-lt-300;
 $link-color: #04B2D9;
 $nav-child-link-color: #BABF17; // un var
@@ -13,7 +13,7 @@ $feedback-color: darken($sidebar-color, 3%);
 $table-background-color: $grey-dk-250;
 $search-background-color: $grey-dk-250;
 $search-result-preview-color: $grey-dk-000;
-$border-color: $grey-dk-200;
+$border-color: #F2911B;
 
 @import "./vendor/Scooby/syntax"; // this is the one-dark-vivid atom syntax theme
 
