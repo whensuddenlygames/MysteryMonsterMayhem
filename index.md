@@ -11,7 +11,7 @@ This is a living document and repository for the development of a TTRPG which us
 For one, it makes updating the game far easier than trying to release a PDF every few months. This was demonstrated to me by my great friend Penny who first tried out this method with her game [Distorted Domains](http://transtapir.games/Distorted-Domains/). Second, it is in keeping with the spirit of the CSRD. As a github repository you can just as easily grab a copy for yourself and begin tinkering with the mechanics and write your own ideas.
 
 {: .note }
-You can't copyright mechanics anyway so it's not worth trying to gate keep them. I only "own" the expression of those mechanics.
+> You can't copyright mechanics anyway so it's not worth trying to gate keep them. I only "own" the expression of those mechanics.
 
 ## What Are My Goals?
 While Cypher System is fantastic for narrative first games, characters skew toward being far more heoric than a lot of games. Between their stat pools, abilities, skills, and cyphers they are particularly powerful. While this serves a game well in high fantasy and sci-fi fantasy, it can quickly rob horror games of their tension. How scary can a monster be when you can vaporize a wall with your mind?
