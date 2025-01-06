@@ -25,4 +25,4 @@ Two ways you can help. First is by giving your feedback! Send me an [email](mail
 
 Second is through your financial support. Any amount of money frees me up to put more focus on this game's development, along with putting it toward the future final development of the book. I would like to crowdfund it, and that takes time and money to help get off the ground. So consider heading over to my [Ko-Fi page](https://ko-fi.com/whensuddenlygames) to help out.
 
-[Dontation](#donation){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Dontation](https://ko-fi.com/whensuddenlygames){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
