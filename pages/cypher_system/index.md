@@ -10,4 +10,4 @@ I also wanted to see if I could address one of my few criticisms of the game. Wh
 
 This is most obvious in the character options. One of the lines often used to sell Cypher System is that it is a game about exploration and not necessarily combat. Yet the majority of Types and Foci are combat oriented. So this tells players that the majority of interactions should be sovled with violence. 
 
-So as I mentioned in the [Goals]<a name="goals"></a> section I want to see if we can make the mechanics more diegetic to the narrative. Let's see if I succeed.
+So as I mentioned in the [Goals](#goals) section I want to see if we can make the mechanics more diegetic to the narrative. Let's see if I succeed.
