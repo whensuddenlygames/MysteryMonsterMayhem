@@ -10,7 +10,7 @@ aux_links:
   # Color scheme supports "light" (default) and "dark"
 color_scheme: scooby
 
-logo: "imgs/just-the-docs.png"
+logo: "imgs/MMM_logo_small.png"
 
 # Footer content
 # appears at the bottom of every page's main content
