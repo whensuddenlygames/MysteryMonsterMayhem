@@ -3,7 +3,9 @@ title: Home
 layout: home
 nav_order: 0
 ---
-
+<p align="center">
+  ![MMM Logo](imgs/MMM_logo_small.png)
+</p>
 # Welcome to the online document for **MYSTERY MONSTER MAYHEM!** 
 This is a living document and repository for the development of a TTRPG which uses the [Cypher System SRD](https://screwtapello.gitlab.io/cypher-system-reference/index.html) for the base mechanics. From there I am building out new system and mechanics to achieve a particular theme and vibe.
 
