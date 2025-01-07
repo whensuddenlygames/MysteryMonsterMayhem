@@ -3,6 +3,8 @@ title: Mystery Monster Mayhem! Rules
 layout: default
 nav_order: 3
 ---
+![MMM Logo](../../imgs/MMM_logo_small.png)
+
 # Mystery Monster Mayhem! Rules
 Thematically we're going for horror + mystery + goofy hijinks. Think Scooby-Doo meets Brindlewood Bay. You'll see this show up in the new ability names and chase rules.
 
