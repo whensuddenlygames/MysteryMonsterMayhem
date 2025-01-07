@@ -13,11 +13,13 @@ This is the question that the players and *you* are playing to find an answer to
 ## Inciting Incident
 Something has to kick start the mystery and get the PCs involved. Think about one of your favorite murder mystery shows and how they start. 
 
+{: .note }
 > You can think of this as the cold open of a TV show. This is where the maid cleaning the pent house discovers the dead body. Or where the jogger stops to tie their shoe and well...discovers the dead body. Feel free to describe this scene to your players, even if the PCs are not there to witness it.
 
 # The Monster
 A good monster makes for a memorable game. And the best kind of monster can potentially be unmasked to discover who is really behind it all. When disigning the mosnter for your mystery, think of how it relates to the location that the players will be investigating. A ghost of the long deceased groundskeeper. A bog monster who pulls travelers into the dark waters around the old resort. Your monsters need to terify the party and to be able to harange them at a moments notice. Popping up seeminly out of nowhere.
 
+{: .note }
 > Big note here! It is not your job to know how the monster gets around the location or who may be behind it. You are playing to find out that information just as much as the players are. Let the clues they gather and NPCs they talk to reveal that information. Remember, it is up to the players to piece it all together and make the final roll to solve the mystery.
 
 # Jump Scares
@@ -32,4 +34,4 @@ Remember, an NPC is more than just a personality. They are also a culmination of
 You'll want a few places for the PCs to have fun exploring. Use your list of suspects and main mystery to help build out what locations you may need. Think of fun little **Jump Scares** you can put in each one. Each location needs to be memorable and have lots of atmosphere to build tension. Consider how they can be a character unto themselves. If they go to the library, are the shelves so tall they loom over the PCs like ancient statues of knowledge? In the hotel they're staying at, do the faucets drip to the beat of "Take On Me?"
 
 # Clues
-Instead of 
+Instead of attaching specific clues to a Suspect or Loaction, you're better served by having a list of clues you can easily drop into any situation that is appropriate. This solves the issue of attaching what could be an important clue to a specific places or person that the players could potentially miss. With his method this players have the ability to uncover the affair between the principal and the janitor through either a conversation *or* a secret love letter haphazardly thrown away in a trash bin. Which then later they may discover that the hand writing was faked through either finding another note written by the principal in which the writing doesn't match or discovering the paper from the note matches that of the lunch lady's scratch pad!
