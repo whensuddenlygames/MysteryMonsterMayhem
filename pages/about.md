@@ -5,4 +5,6 @@ nav_order: 4
 ---
 # [Website](https://www.whensuddenly.games)
 
-![When Suddenly! Games logo](../imgs/Logo%20Color@0.5x.png)
+<p align="center" width="100%>
+  <img src="#">
+</p>
