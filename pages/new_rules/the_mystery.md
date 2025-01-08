@@ -21,12 +21,12 @@ Talk with NPCs to discover who hates who.
 
 Dig through decades old court documents to track the family lineage of who owned the land!
 
-Creep through the mansion to discover its hidden passagways.
+Creep through the mansion to discover its hidden passageways.
 
 ## Solving The Mystery 
 The answer isn't determined ahead of time. Rather, the players gather enough clues until they believe they can build a cohesive answer using what they've gathered! For each clue, ease the level of the clue by 1. The final level is the level of the mystery + monster level - clues
 
-Once they're ready, they must capture the monster and the unmask it! 
+Once they're ready, they must capture the monster and unmask it! 
 
 If the roll is successful the players describe how each clue fits together to reveal the dastardly villain behind the mask.
 
