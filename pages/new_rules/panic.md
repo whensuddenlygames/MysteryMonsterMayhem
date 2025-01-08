@@ -21,10 +21,10 @@ The group PANIC! is maxed at 10.
 - Anytime something particularly spooky happens!
 
 ### Group
-- As the result of a Nat 1 from a GM Intrusion.
+- As the result of a GM Intrusion from a Nat 1.
 - Whenever a single PC's PANIC! level reaches their Tier + 1
 - The first time the party encounters the monster (not all PCs need to be present)
-- Anytime the group discovere a dead body.
+- Anytime the group discovers a dead body.
 
 ## Reducing PANIC!
 - As a Major Effect the player may reduce their PANIC! by 2 or group PANIC! by 2.
