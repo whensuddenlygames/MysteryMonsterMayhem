@@ -9,7 +9,7 @@ nav_order: 2
 
 A monster does not have normal HP, rather they have a number of times they can be dazed equal to their level. Once the monster has been dazed equal to their Tier lower the group PANIC! level by 2 and PC PANIC! level by 1.
 
-PCs can daze the monster through their wacky hijinks, traps, silly plans, or smacking it around. Smacking it around is the hardest approach, as it requires the PC deal enough "damage" equal to the monster's level x 3 to equal one daze.
+PCs can daze the monster through their wacky hijinks, traps, silly plans, or smacking it around. Smacking it around is the hardest approach, as it requires the PC to deal enough "damage" equal to the monster's level x 3 to equal one daze.
 
 Once the monster has been fully dazed they are "knocked out." The PCs can attempt to solve the mystery at this time or run!
 
