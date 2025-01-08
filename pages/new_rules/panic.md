@@ -37,4 +37,4 @@ A character's personal PANIC! level contributes to the difficulty of the monster
 
 Whenever the group PANIC! level reaches 3, the inciting player must roll against it. They may choose any stat appropriate for the roll to help ease it. If the roll fails, the PCs instantly PANIC! and a chase begins.
 
-If the roll is successful the group PANIC! level continues to raise as normal. At level 6 the group must roll again. Then again at 9 and 10.
+If the roll is successful the group PANIC! level continues to raise as normal. At level 6 the group must roll again. Then again at 9. At PANIC! level 10 the group has lost all composure and breaks, entering a Chase.
