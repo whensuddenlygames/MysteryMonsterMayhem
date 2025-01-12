@@ -37,16 +37,22 @@ Read out loud
 Tilly appears to be a red hound dog with big, spade shaped ears and a lean build that stands at least 3 feet at her shoulder. Her thin, whip-like tail gradually turns from red to black at its tip.
 
 **Daze:** 4
+
 **Health:** 12
+
 **Movement:** Long while within the cemetery.
-**Modifications:**
+
+**Modifications:** Tilly has a hindrance of 1 when outside of rhe cemetery and only requires 2 levels of daze to escape from.
+
 **The Chase:** Tilly darts in and out of the tombstones and mausoleums, attempting to “herd” their prey out of the graveyard or to trip and fall. She nips at their heels and lunges to push them in specific directions.
 
 Tilly may perform one of the following actions during the Chase.
-*Ghostly Howl:* Tilly lets out a chest rumbling howl. Anyone within a long range causes all who fail an Intellect defense of 4 to have a hindrance to their next action.
-*Heel Nip:* Tilly nips at a target’s heels. Failing a Speed defense roll causes the target to make a hasty turn which trips them into a tombstone and takes Might damage.
-*Monstrous Glare:* Looking into Tilly’s golden, glowing eyes causes a shock of fear. Failing an Intellect defense roll the target’s PANIC! increases by 1 and they speed off, zig-zagging among the tombstones.
 
+*Ghostly Howl:* Tilly lets out a chest rumbling howl. Anyone within a long range causes all who fail an Intellect defense of 4 to have a hindrance to their next action.
+
+*Heel Nip:* Tilly nips at a target’s heels. Failing a Speed defense roll causes the target to make a hasty turn which trips them into a tombstone and takes Might damage.
+
+*Monstrous Glare:* Looking into Tilly’s golden, glowing eyes causes a shock of fear. Failing an Intellect defense roll the target’s PANIC! increases by 1 and they speed off, zig-zagging among the tombstones.
 
 ## Jump Scares
 Here are a few potential Jump Scares to use for GM Intrusions.
