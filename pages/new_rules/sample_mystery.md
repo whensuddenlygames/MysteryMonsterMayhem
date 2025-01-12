@@ -7,12 +7,11 @@ nav_order: 0
 # Sample Mystery
 Here is a mystery to try for your players to get used to the game. 
 
-> This is coming soonish. If you have a copy of Brindlewood Bay, you already have a great set of Mysteries to choose from. All they need is a monster!
+> If you have a copy of Brindlewood Bay, you already have a great set of Mysteries to choose from. All they need is a monster!
 
 ## The Mystery
 
-### *Gracie’s Hound of Westmark Cemetery*
-**Level:** 8 (24)
+### *Gracie’s Hound of Westmark Cemetery Level 8 (24)*
 
 The Westmark Cemetery has always been known for spooky events. Teenagers who have dared each other to spend just one night among the tombs come out screaming that the statues are smiling at them. The sound of a rusted gate screeching open always happens at midnight. The smell of freshly churned earth lingers in the air despite not a single new “resident” having been laid to rest there in years.
 
